@@ -1,4 +1,3 @@
-# parking-system
 # 🅿️ Automated Parking System
 
 An Automated Parking System built with Django that helps manage vehicle entries, exits, and slot availability in real time. This web-based system allows administrators to monitor and control parking operations efficiently.
