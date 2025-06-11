@@ -32,4 +32,4 @@ An Automated Parking System built with Django that helps manage vehicle entries,
    cd automated-parking-system
 
 Link:
-https://vinoothna-m.github.io/parking-system/
+https://vinoothna-m.github.io/automated-parking-system/
