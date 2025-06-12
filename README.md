@@ -31,5 +31,6 @@ An Automated Parking System built with Django that helps manage vehicle entries,
    git clone https://github.com/vinoothna-m/automated-parking-system.git
    cd automated-parking-system
 
-Link:
-https://vinoothna-m.github.io/automated-parking-system/
+
+  Link:
+  https://vinoothna-m.github.io/automated-parking-system/
